@@ -13,7 +13,6 @@
 ### Key Features:
 ✅ **Zero setup** – Run the executable and start sharing.
 ✅ **Cross-device** – Works on Windows, macOS, and Linux (via Python).
-✅ **No internet required** – Operates entirely on your local network.
 ✅ **Lightweight** – Minimal codebase, no bloat.
 ✅ **Open-source** – Free to use, modify, and distribute.
 
