@@ -105,3 +105,5 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 - **Star** the repository to help others discover it.
 - Share with friends or colleagues who need a simple file-sharing tool.
 - Check out my other projects on [GitHub](https://github.com/EmberNoGlow).
+---
+Article on [Dev.to](https://dev.to/embernoglow/file-sharing-tired-of-slow-transfers-heres-the-easiest-and-fastest-utility-to-share-files-1on2)
